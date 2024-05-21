@@ -1,4 +1,4 @@
-Basic Things
+# Basic Things
 
 * [Display gdb version information](show-version.md)
 * [Display gdb copyright related information](show-copying-warranty.md)
