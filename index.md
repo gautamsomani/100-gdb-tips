@@ -4,7 +4,7 @@ Basic Things
 * [Display gdb copyright related information](show-copying-warranty.md)
 * [Disable prompt message that is displayed at startup](start-gdb-silently.md)
 * [Disable prompt message that is displayed when exiting](quit-gdb-silently.md)
-The output will not be paused when there is a lot of output information.
+* The output will not be paused when there is a lot of output information.
 
 Function
 
