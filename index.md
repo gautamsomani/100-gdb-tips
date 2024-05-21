@@ -1,9 +1,9 @@
 Basic Things
 
-     Display gdb version information
-     Display gdb copyright related information
-     No prompt message is displayed at startup
-     No prompt message is displayed when exiting
+     Display gdb version information (show-version.md)
+     Display gdb copyright related information (show-copying-warranty.md)
+     No prompt message is displayed at startup (start-gdb-silently.md)
+     No prompt message is displayed when exiting (quit-gdb-silently.md)
      The output will not be paused when there is a lot of output information.
 
 Function
