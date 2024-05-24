@@ -1,9 +1,9 @@
 # Basic Things
 
-* [Display gdb version information](show-version.md)
-* [Display gdb copyright related information](show-copying-warranty.md)
-* [Disable prompt message that is displayed at startup](start-gdb-silently.md)
-* [Disable prompt message that is displayed when exiting](quit-gdb-silently.md)
+* [Display gdb version information](src/show-version.md)
+* [Display gdb copyright related information](src/show-copying-warranty.md)
+* [Disable prompt message that is displayed at startup](src/start-gdb-silently.md)
+* [Disable prompt message that is displayed when exiting](src/quit-gdb-silently.md)
 * The output will not be paused when there is a lot of output information.
 
 Function
